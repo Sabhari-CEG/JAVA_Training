@@ -1,0 +1,1 @@
+This is the sample file that need to be copied to destination. The file says I Love java.
